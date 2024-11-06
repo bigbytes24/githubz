@@ -1,0 +1,14 @@
+
+#################################
+# This is a comment
+#################################
+# Ignore all txt files
+*.txt
+#################################
+# Ignore this image
+DICTlogo.jpg
+#################################
+# Folder to be ignored
+/toBeIgnored3/
+/toBeIgnored/Ignored2/
+#################################
