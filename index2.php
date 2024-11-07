@@ -6,7 +6,7 @@ include_once 'stats_user_header.php';
 include_once "connectdb.php";
 
 
-
+echo "edited me!"
 error_reporting (1);
 
 // ########################################################################################################### -->
