@@ -5,7 +5,7 @@
 include_once 'stats_user_header.php';
 include_once "connectdb.php";
 
-
+echo "AMAZING MASTER";
 
 error_reporting (0);
 
